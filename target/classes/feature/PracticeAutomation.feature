@@ -7,7 +7,7 @@ Background: common for each scenario
 Given User launch the browser with practiceautomationtestingPage
 
 Scenario: Register Valid Details
-When I click on my account and enter registerusername as 'sumanthatarao098@gmail.com' and registerpassword as 'YherojudfAfgkjgyghbvhgdfghgrg452@hjg'
+When I click on my account and enter registerusername as 'gsumanthatarao098@gmail.com' and registerpassword as 'YherojudfAfgkjgyghbvhgdfghgrg452@hjg'
 And click on register button
 Then i get access to the practice automation
 
